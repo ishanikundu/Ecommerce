@@ -7,7 +7,7 @@ Product Browsing:
 ------
 * Home Page: Displays a curated list of new collections and popular products.
   Product Categories: Users can explore products by category, making it easy to find what they are looking for.
-
+![Screenshot (320)](https://github.com/ishanikundu/Ecommerce/assets/109578172/259febdf-03ed-424d-a06d-29f773c09684)
 Authentication:
 ------
 * JWT Authentication: Secure login and registration using JSON Web Tokens (JWT) to ensure user data privacy.
