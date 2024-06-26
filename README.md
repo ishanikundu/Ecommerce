@@ -21,6 +21,7 @@ Shopping Cart:
 --------
 Users can add products to their cart and manage quantities before checkout.
 Cart data is persisted, ensuring a seamless shopping experience even after logging out and back in.
+![image](https://github.com/ishanikundu/Ecommerce/assets/109578172/d9d9da64-350d-45c5-a8a1-ccfd3e7b8641)
 
 Product Details:
 ---------
@@ -28,6 +29,7 @@ Detailed product pages with images, descriptions, pricing, and customer reviews.
 
 ![Screenshot (329)](https://github.com/ishanikundu/Ecommerce/assets/109578172/29c69227-0cf4-42a6-9b89-31b3b292a864)
  ![Screenshot (321)](https://github.com/ishanikundu/Ecommerce/assets/109578172/713241cc-625d-40ab-8d34-a91dee69d94c)
+![Screenshot (323)](https://github.com/ishanikundu/Ecommerce/assets/109578172/e10cba10-5c6a-42fd-9ac1-197ce9196d53)
 
 Admin Features
 ------------
@@ -40,7 +42,7 @@ Demand Overview: View a dashboard of all products in demand to understand custom
 New Collections:
 ----------
 Newly added products are highlighted under the "New Collection" section on the home page.
-
+![Screenshot (332)](https://github.com/ishanikundu/Ecommerce/assets/109578172/f228f48c-ba8b-4f08-8875-7d8dcb75789b)
 
 Technology Stack
 -----------------------------------------
@@ -49,3 +51,7 @@ Technology Stack
 * Database: MongoDB for storing product data, user information, and order details.
 * Authentication: JWT (JSON Web Tokens) for secure user authentication and session management.
 
+Access the Application:
+--------
+* Frontend: http://localhost:3000
+* Backend: http://localhost:4000
