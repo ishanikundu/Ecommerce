@@ -13,6 +13,9 @@ Authentication:
 * JWT Authentication: Secure login and registration using JSON Web Tokens (JWT) to ensure user data privacy.
  User Registration: New users can easily sign up for an account to start shopping.
  User Login: Returning users can sign in to access their account, view past orders, and manage their cart.
+![Screenshot (328)](https://github.com/ishanikundu/Ecommerce/assets/109578172/6a0d30e6-39b9-41c4-ba01-7f399cf61bfe)
+
+
 
 Shopping Cart:
 --------
@@ -23,11 +26,16 @@ Product Details:
 ---------
 Detailed product pages with images, descriptions, pricing, and customer reviews.
 
+![Screenshot (329)](https://github.com/ishanikundu/Ecommerce/assets/109578172/29c69227-0cf4-42a6-9b89-31b3b292a864)
+ ![Screenshot (321)](https://github.com/ishanikundu/Ecommerce/assets/109578172/713241cc-625d-40ab-8d34-a91dee69d94c)
+
 Admin Features
 ------------
 Admin Portal:
 Product Management: Admins can add new products, update existing products, and manage inventory.
 Demand Overview: View a dashboard of all products in demand to understand customer preferences and adjust inventory accordingly.
+![Screenshot (325)](https://github.com/ishanikundu/Ecommerce/assets/109578172/832de26a-1d87-4a6c-b71d-096061ff2c0e)
+
 
 New Collections:
 ----------
